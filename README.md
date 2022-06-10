@@ -1,7 +1,7 @@
 ## Useful Books 📘
 1. [Aprendendo PHP](https://www.amazon.com.br/Tour-C-2nd-Bjarne-Stroustrup/dp/0134997832/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1IR5XEA4IMCVQ&dchild=1&keywords=a+tour+of+c%2B%2B&qid=1597129065&sprefix=a+tour+of%2Caps%2C286&sr=8-1](https://www.amazon.com/Aprendendo-PHP-Em-Portuguese-Brasil/dp/8575225189)), by David Skla
 2. [PHP Programando com Orientação a Objetos](https://www.amazon.com.br/PHP-Programando-com-Orienta%C3%A7%C3%A3o-Objetos-ebook/dp/B07G9PQJQR), by Pablo Dall’Oglio
-3. [PHP & MySQL: Server-Side Web Development](https://www.amazon.com.br/PHP-MySQL-Server-side-Web-Development/dp/1119149223?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1ZZFT5FULY4LN), by Jon Duckett 
+3. [PHP & MySQL: Server-Side Web Development](https://www.amazon.com.br/PHP-MySQL-Server-side-Web-Development/dp/1119149223?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1ZZFT5FULY4LN), by Jon Duckett
 4. [Desenvolvendo com Laravel: Um Framework Para a Construção de Aplicativos PHP Modernos](https://www.amazon.com.br/Desenvolvendo-Laravel-Framework-Constru%C3%A7%C3%A3o-Aplicativos/dp/8575225677/ref=asc_df_8575225677/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=8639817293522472754&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031785&hvtargid=pla-812887615577&psc=1), by Matt Stauffer
 5. [Aprendendo Laravel: o Framework PHP dos Artesãos da web](https://www.amazon.com.br/Aprendendo-Laravel-Framework-PHP-Artes%C3%A3os/dp/8575226282/ref=asc_df_8575226282/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=8639817293522472754&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031785&hvtargid=pla-812887615617&psc=1), by Michael Douglas, Matheus Marabesi
 6. [Design Patterns com PHP 7: Desenvolva com as melhores soluções](https://www.amazon.com.br/Design-Patterns-com-PHP-Desenvolva-ebook/dp/B07DNGL43S), by Gabriel Anhaia
@@ -15,6 +15,8 @@
 14. [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=pd_day0_14_8?_encoding=UTF8&pd_rd_i=0201633612&pd_rd_r=3c78913f-2d33-4f25-946b-9f02b03e273e&pd_rd_w=w0mzy&pd_rd_wg=3bL6K&pf_rd_p=c4c4ce2a-5c19-402b-95c2-78b460af9127&pf_rd_r=WYY9E2E4CC6DXHS6XTX1&psc=1&refRID=WYY9E2E4CC6DXHS6XTX1), by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (Gang of Four - GoF)
 15. [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052), by Michael Feathers
 16. [Soft Skills: The Software Developer’s Life Manual](https://www.amazon.com.br/Soft-Skills-Software-Developers-Manual/dp/1617292397), by John Sonmez
+17. [Domain-Driven Design: Atacando as complexidades no coração do software](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651), by Eric Evans
+18. [Controlando Versões com Git e GitHub](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532/ref=asc_df_8566250532/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=16328465477855741670&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031785&hvtargid=pla-913708764711&psc=1), by Alexandre Aquiles
 
 ## Useful Content 🔗
 1. [Design Patterns](https://refactoring.guru/design-patterns)
