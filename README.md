@@ -1,4 +1,4 @@
-## Useful Books 📘
+### Useful Books 📘
 1. [Aprendendo PHP](https://www.amazon.com.br/Tour-C-2nd-Bjarne-Stroustrup/dp/0134997832/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1IR5XEA4IMCVQ&dchild=1&keywords=a+tour+of+c%2B%2B&qid=1597129065&sprefix=a+tour+of%2Caps%2C286&sr=8-1](https://www.amazon.com/Aprendendo-PHP-Em-Portuguese-Brasil/dp/8575225189)), by David Skla
 2. [PHP Programando com Orientação a Objetos](https://www.amazon.com.br/PHP-Programando-com-Orienta%C3%A7%C3%A3o-Objetos-ebook/dp/B07G9PQJQR), by Pablo Dall’Oglio
 3. [PHP & MySQL: Server-Side Web Development](https://www.amazon.com.br/PHP-MySQL-Server-side-Web-Development/dp/1119149223?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1ZZFT5FULY4LN), by Jon Duckett
@@ -17,7 +17,7 @@
 16. [Soft Skills: The Software Developer’s Life Manual](https://www.amazon.com.br/Soft-Skills-Software-Developers-Manual/dp/1617292397), by John Sonmez
 17. [JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language](https://www.scribd.com/book/461623773/JavaScript-The-Definitive-Guide-Master-the-World-s-Most-Used-Programming-Language?utm_medium=cpc&utm_source=google_search&utm_campaign=3Q_Google_DSA_NB_RoW&utm_term=&utm_device=c&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGARPU3fXq3iAudaiVjfZTS9p-kdO0MvO8jwOCH9rcYY-IuafKYbdGFIaAmedEALw_wcB), by David Flanagan
 
-## Useful Content 🔗
+### Useful Content 🔗
 1. [Design Patterns](https://refactoring.guru/design-patterns)
 2. [SOLID Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 3. [Roadmap Backend](https://roadmap.sh/backend)
