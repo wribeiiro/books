@@ -24,9 +24,5 @@
 4. [DRY, KISS e YAGNI](https://vinioolvrs.medium.com/conhe%C3%A7a-os-princ%C3%ADpios-dry-kiss-e-yagni-9fc4ab46b0b9)
 5. [Object Calisthenics](https://dev.to/tadeubdev/object-calisthenics-with-php-en-2h4p)
 
-## Other Projects
-
-Check out other stuff I've worked on:
-
-**My personal page**: https://wribeiiro.com
-**My personal page**: https://wribeiiro.com
+ 
+ My happy string 
