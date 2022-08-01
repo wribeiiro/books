@@ -23,14 +23,3 @@
 3. [Roadmap Backend](https://roadmap.sh/backend)
 4. [DRY, KISS e YAGNI](https://vinioolvrs.medium.com/conhe%C3%A7a-os-princ%C3%ADpios-dry-kiss-e-yagni-9fc4ab46b0b9)
 5. [Object Calisthenics](https://dev.to/tadeubdev/object-calisthenics-with-php-en-2h4p)
-
- 
- My happy string 
- 
- My happy string 
- 
- My happy string 
- 
- My happy string 
- 
- My happy string 
