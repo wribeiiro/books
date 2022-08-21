@@ -16,6 +16,7 @@
 15. [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052), by Michael Feathers
 16. [Soft Skills: The Software Developer’s Life Manual](https://www.amazon.com.br/Soft-Skills-Software-Developers-Manual/dp/1617292397), by John Sonmez
 17. [JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language](https://www.scribd.com/book/461623773/JavaScript-The-Definitive-Guide-Master-the-World-s-Most-Used-Programming-Language?utm_medium=cpc&utm_source=google_search&utm_campaign=3Q_Google_DSA_NB_RoW&utm_term=&utm_device=c&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGARPU3fXq3iAudaiVjfZTS9p-kdO0MvO8jwOCH9rcYY-IuafKYbdGFIaAmedEALw_wcB), by David Flanagan
+18. [Migrando Sistemas Monolíticos Para Microsserviços: Padrões Evolutivos Para Transformar seu Sistema Monolítico](https://www.amazon.com.br/gp/product/6586057043/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1), by Sam Newman
 
 ### Useful Content 🔗
 1. [Design Patterns](https://refactoring.guru/design-patterns)
